@@ -32,7 +32,7 @@ This project aims to deploy a web application with frontend, backend, and MongoD
 ### Setup Instructions for Deploying the Application on AKS
 - Clone the Repository to your local
 ```sh
-git clone https://github.com/HILL-TOPCONSULTANCY/terris.git
+git clone https://github.com/ndahtems/Aks-project.git
 ```
 
 #### **Step 1: Login to Azure**
